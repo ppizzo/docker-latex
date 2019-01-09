@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  latex:
+    image: ppizzo/latex
+    build:
+      context: ./
