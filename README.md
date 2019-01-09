@@ -1,5 +1,8 @@
 # docker-latex
-Full Tex Live LaTeX distribution based on Alpine Linux.
+Tex Live LaTeX distribution.
+
+[![](https://images.microbadger.com/badges/version/ppizzo/latex.svg)](https://microbadger.com/images/ppizzo/latex "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/ppizzo/latex.svg)](https://microbadger.com/images/ppizzo/latex "Get your own image badge on microbadger.com")
 
 # Build
 You don't need help to build a Docker image with Dockerfile and docker-compose.yaml available, do you? ;)
