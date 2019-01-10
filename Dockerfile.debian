@@ -8,6 +8,6 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update
 RUN apt-get install -y texlive
 RUN apt-get install -y texlive-latex-extra texlive-lang-italian texlive-lang-english texlive-fonts-extra
-RUN apt-get install -y make curl
+RUN apt-get install -y make
 
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /usr/share/doc* /usr/share/man/* /usr/share/info/*
