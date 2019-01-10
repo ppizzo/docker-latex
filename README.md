@@ -4,6 +4,9 @@ Tex Live LaTeX distribution.
 [![](https://images.microbadger.com/badges/version/ppizzo/latex.svg)](https://microbadger.com/images/ppizzo/latex "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/image/ppizzo/latex.svg)](https://microbadger.com/images/ppizzo/latex "Get your own image badge on microbadger.com")
 
+[![](https://images.microbadger.com/badges/version/ppizzo/latex:alpine.svg)](https://microbadger.com/images/ppizzo/latex:alpine "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/ppizzo/latex:alpine.svg)](https://microbadger.com/images/ppizzo/latex:alpine "Get your own image badge on microbadger.com")
+
 # Build
 You don't need help to build a Docker image with Dockerfile and docker-compose.yaml available, do you? ;)
 
