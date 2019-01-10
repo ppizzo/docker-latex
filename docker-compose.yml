@@ -4,4 +4,5 @@ services:
   latex:
     image: ppizzo/latex
     build:
-      context: ./
+      context: .
+      dockerfile: Dockerfile.debian
