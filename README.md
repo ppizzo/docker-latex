@@ -17,4 +17,4 @@ Enter the directory containing your LaTeX source code and issue the following co
 docker run -ti -u $(id -u):$(id -g) --rm -v `pwd`:/src ppizzo/latex latex yourfile.tex
 ```
 
-The image also contains the `make` command, to be used if needed.
+There is also a tag `cv` for the Europass Curriculum Vitae.
