@@ -5,5 +5,5 @@ MAINTAINER Pietro Pizzo <pietro.pizzo@gmail.com>
 WORKDIR /src
 
 RUN apk add --no-cache texlive
-RUN apk add --no-cache texlive-full
+RUN apk add --no-cache texlive-full texlive-extra-utils
 RUN apk add --no-cache make
